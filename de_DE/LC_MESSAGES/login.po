@@ -149,4 +149,4 @@ msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Wenn du bereit bist, gib dich der Welt im Vorstelleungs-Kanal in der Personal-Kategorie preis."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Tut uns Leid! Wir haben diese Email-Addresse als ungültig markiert. Daher werden ihr keine weitere Emails von Sudomemo gesendet."
